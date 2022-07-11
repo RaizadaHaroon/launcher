@@ -1,0 +1,6 @@
+make: Entering directory `/Users/haroon.raizada/Applications/terraform-provider-launcher'
+gofmt -w $(find . -name '*.go' |grep -v vendor)
+./scripts/build.sh
+ 
+make: Leaving directory `/Users/haroon.raizada/Applications/terraform-provider-launcher'
+ 
