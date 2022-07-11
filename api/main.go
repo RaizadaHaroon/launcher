@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/cloudreach/terraform-provider-launcher/api/server"
+	"github.com/RaizadaHaroon/terraform-provider-launcher/api/server"
 )
 
 func main() {

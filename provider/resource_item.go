@@ -5,9 +5,9 @@ import (
 	"regexp"
 	"strings"
 
+	"github.com/RaizadaHaroon/terraform-provider-launcher/api/client"
+	"github.com/RaizadaHaroon/terraform-provider-launcher/api/server"
 	"github.com/hashicorp/terraform/helper/schema"
-	"github.com/spaceapegames/terraform-provider-example/api/client"
-	"github.com/spaceapegames/terraform-provider-example/api/server"
 )
 
 func validateName(v interface{}, k string) (ws []string, es []error) {

@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"github.com/cloudreach/terraform-provider-launcher/api/client"
+	"github.com/RaizadaHaroon/terraform-provider-launcher/api/client"
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/hashicorp/terraform/terraform"
 )

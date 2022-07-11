@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/cloudreach/terraform-provider-launcher/api/server"
+	"github.com/RaizadaHaroon/terraform-provider-launcher/api/server"
 )
 
 // Client holds all of the information required to connect to a server

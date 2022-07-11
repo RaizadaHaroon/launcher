@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cloudreach/terraform-provider-launcher/provider"
+	"github.com/RaizadaHaroon/terraform-provider-launcher/provider"
 	"github.com/hashicorp/terraform/plugin"
 )
 
