@@ -2,8 +2,9 @@ package provider
 
 import (
 	"github.com/RaizadaHaroon/terraform-provider-launcher/api/client"
-	"github.com/hashicorp/terraform-schema/schema"
-	_ "github.com/hashicorp/terraform/terraform"
+
+	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
+	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
 )
 
 func Provider() terraform.ResourceProvider {
