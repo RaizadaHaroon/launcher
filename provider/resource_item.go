@@ -10,7 +10,7 @@ import (
 
 	//hc "github.com/hashicorp-demoapp/hashicups-client-go"
 
-	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
+	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 )
 
 func validateName(v interface{}, k string) (ws []string, es []error) {
