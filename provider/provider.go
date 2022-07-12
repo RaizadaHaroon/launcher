@@ -3,7 +3,7 @@ package provider
 import (
 	"github.com/RaizadaHaroon/terraform-provider-launcher/api/client"
 
-	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
+	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
 func Provider() *schema.Provider {
