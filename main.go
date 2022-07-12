@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/RaizadaHaroon/terraform-provider-launcher/provider"
-	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
+	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 )
 
 func main() {
